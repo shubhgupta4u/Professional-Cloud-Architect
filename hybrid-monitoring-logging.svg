@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="27 10 672 534" width="672" height="534">
+  <defs>
+    <font-face font-family="Roboto" font-size="12" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="927.7344" descent="-244.14062" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="11" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8 
+    <dc:date>2019-09-09 08:05:01 +0000</dc:date>
+  </metadata>
+  <g id="Diagram_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Diagram 1</title>
+    <g id="Diagram_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_3813">
+        <g id="Graphic_3811">
+          <path d="M 183.6321 286.1 L 183.6321 281.1 L 183.6321 260 L 183.6321 244.5 L 183.1321 245 L 260.02658 245 L 270.02658 245 C 270.30272 245 270.52658 244.77614 270.52658 244.5 C 270.52658 244.22386 270.30272 244 270.02658 244 L 260.02658 244 L 183.1321 244 C 182.85597 244 182.6321 244.22386 182.6321 244.5 L 182.6321 260 L 182.6321 281.1 L 182.6321 286.1 C 182.6321 286.37614 182.85597 286.6 183.1321 286.6 C 183.40825 286.6 183.6321 286.37614 183.6321 286.1 Z M 183.6321 294.1 L 183.6321 286.1 L 182.6321 286.1 L 182.6321 294.1 Z M 186.77856 289.74645 L 182.77856 293.74645 L 183.48566 293.74645 L 179.48566 289.74645 L 178.77856 290.45355 L 182.77856 294.45355 L 183.1321 294.8071 L 183.48566 294.45355 L 187.48566 290.45355 Z" fill="#616161"/>
+        </g>
+        <g id="Graphic_3810">
+          <path d="M 362.6846 113 L 362.6846 183.1 C 362.6846 183.37614 362.90844 183.6 363.1846 183.6 C 363.46072 183.6 363.6846 183.37614 363.6846 183.1 L 363.6846 113 C 363.6846 112.72386 363.46072 112.5 363.1846 112.5 C 362.90844 112.5 362.6846 112.72386 362.6846 113 Z M 363.6846 191.1 L 363.6846 183.1 L 362.6846 183.1 L 362.6846 191.1 Z M 366.83103 186.74645 L 362.83103 190.74645 L 363.53813 190.74645 L 359.53813 186.74645 L 358.83103 187.45355 L 362.83103 191.45355 L 363.1846 191.8071 L 363.53813 191.45355 L 367.53813 187.45355 Z" fill="#616161"/>
+        </g>
+        <g id="Graphic_3799">
+          <path d="M 456.3426 62 L 525.1266 62 C 525.4027 62 525.6266 61.77614 525.6266 61.5 C 525.6266 61.22386 525.4027 61 525.1266 61 L 456.3426 61 C 456.06644 61 455.8426 61.22386 455.8426 61.5 C 455.8426 61.77614 456.06644 62 456.3426 62 Z M 533.1266 61 L 525.1266 61 L 525.1266 62 L 533.1266 62 Z M 528.773 57.85355 L 532.773 61.85355 L 532.773 61.14645 L 528.773 65.14645 L 529.48013 65.85355 L 533.48013 61.85355 L 533.8337 61.5 L 533.48013 61.14645 L 529.48013 57.14645 Z" fill="#616161"/>
+        </g>
+        <g id="Graphic_3802">
+          <path d="M 543.73705 286.1 L 543.73705 281.1 L 543.73705 265 L 543.73705 244.5 C 543.73705 244.22386 543.5132 244 543.23705 244 L 466.3426 244 L 456.3426 244 C 456.06644 244 455.8426 244.22386 455.8426 244.5 C 455.8426 244.77614 456.06644 245 456.3426 245 L 466.3426 245 L 543.23705 245 L 542.73705 244.5 L 542.73705 265 L 542.73705 281.1 L 542.73705 286.1 C 542.73705 286.37614 542.9609 286.6 543.23705 286.6 C 543.5132 286.6 543.73705 286.37614 543.73705 286.1 Z M 543.73705 294.1 L 543.73705 286.1 L 542.73705 286.1 L 542.73705 294.1 Z M 546.8835 289.74645 L 542.8835 293.74645 L 543.5906 293.74645 L 539.5906 289.74645 L 538.8835 290.45355 L 542.8835 294.45355 L 543.23705 294.8071 L 543.5906 294.45355 L 547.5906 290.45355 Z" fill="#616161"/>
+        </g>
+        <g id="Graphic_3803">
+          <path d="M 631.73705 454.1 L 631.73705 449.1 L 631.73705 427 C 631.73705 426.72386 631.5132 426.5 631.23705 426.5 L 543.36916 426.5 L 455.23705 426.5 C 454.9609 426.5 454.73705 426.72386 454.73705 427 L 454.73705 449.1 L 454.73705 454.1 C 454.73705 454.37614 454.9609 454.6 455.23705 454.6 C 455.5132 454.6 455.73705 454.37614 455.73705 454.1 L 455.73705 449.1 L 455.73705 427 L 455.23705 427.5 L 543.36916 427.5 L 631.23705 427.5 L 630.73705 427 L 630.73705 449.1 L 630.73705 454.1 C 630.73705 454.37614 630.9609 454.6 631.23705 454.6 C 631.5132 454.6 631.73705 454.37614 631.73705 454.1 Z M 455.73705 462.1 L 455.73705 454.1 L 454.73705 454.1 L 454.73705 462.1 Z M 458.8835 457.74645 L 454.8835 461.74645 L 455.5906 461.74645 L 451.5906 457.74645 L 450.8835 458.45355 L 454.8835 462.45355 L 455.23705 462.8071 L 455.5906 462.45355 L 459.5906 458.45355 Z M 631.73705 462.1 L 631.73705 454.1 L 630.73705 454.1 L 630.73705 462.1 Z M 634.8835 457.74645 L 630.8835 461.74645 L 631.5906 461.74645 L 627.5906 457.74645 L 626.8835 458.45355 L 630.8835 462.45355 L 631.23705 462.8071 L 631.5906 462.45355 L 635.5906 458.45355 Z" fill="#616161"/>
+        </g>
+        <g id="Graphic_3804">
+          <path d="M 542.73705 399 L 542.73705 427 C 542.73705 427.27614 542.9609 427.5 543.23705 427.5 C 543.5132 427.5 543.73705 427.27614 543.73705 427 L 543.73705 399 C 543.73705 398.72386 543.5132 398.5 543.23705 398.5 C 542.9609 398.5 542.73705 398.72386 542.73705 399 Z" fill="#616161"/>
+        </g>
+        <g id="Graphic_3805">
+          <path d="M 271.6321 454.1 L 271.6321 449.1 L 271.6321 427.5 C 271.6321 427.22386 271.40825 427 271.1321 427 L 183.50127 427 L 95.13211 427 C 94.85597 427 94.63211 427.22386 94.63211 427.5 L 94.63211 449.1 L 94.63211 454.1 C 94.63211 454.37614 94.85597 454.6 95.13211 454.6 C 95.40825 454.6 95.63211 454.37614 95.63211 454.1 L 95.63211 449.1 L 95.63211 427.5 L 95.13211 428 L 183.50127 428 L 271.1321 428 L 270.6321 427.5 L 270.6321 449.1 L 270.6321 454.1 C 270.6321 454.37614 270.85597 454.6 271.1321 454.6 C 271.40825 454.6 271.6321 454.37614 271.6321 454.1 Z M 95.63211 462.1 L 95.63211 454.1 L 94.63211 454.1 L 94.63211 462.1 Z M 98.77856 457.74645 L 94.77856 461.74645 L 95.48566 461.74645 L 91.48566 457.74645 L 90.77856 458.45355 L 94.77856 462.45355 L 95.13211 462.8071 L 95.48566 462.45355 L 99.48566 458.45355 Z M 271.6321 462.1 L 271.6321 454.1 L 270.6321 454.1 L 270.6321 462.1 Z M 274.77856 457.74645 L 270.77856 461.74645 L 271.48566 461.74645 L 267.48566 457.74645 L 266.77856 458.45355 L 270.77856 462.45355 L 271.1321 462.8071 L 271.48566 462.45355 L 275.48566 458.45355 Z" fill="#616161"/>
+        </g>
+        <g id="Graphic_3806">
+          <path d="M 182.78447 398.91726 L 182.86917 427.5015 C 182.86998 427.7776 183.0945 428.0008 183.37064 428 C 183.64679 427.9992 183.86998 427.77466 183.86916 427.4985 L 183.78446 398.9143 C 183.78364 398.63815 183.55912 398.41496 183.28298 398.4158 C 183.00684 398.4166 182.78365 398.6411 182.78447 398.91726 Z" fill="#616161"/>
+        </g>
+        <g id="Graphic_3613">
+          <path d="M 363.1846 10 L 456.3426 61.5 L 363.1846 113 L 270.02658 61.5 Z" fill="#e5f5fd"/>
+          <text transform="translate(300.17924 39.47)" fill="black">
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="32.319673" y="11">Do you have </tspan>
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x=".7991647" y="25">sensitive data that must </tspan>
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="18" y="39">stay on-premises?</tspan>
+          </text>
+        </g>
+        <g id="Graphic_3756">
+          <rect x="535.0266" y="21.5" width="135.5259" height="80" fill="#e5f5fd"/>
+          <text transform="translate(540.0266 40.5)" fill="black">
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="8.015877" y="11">Separate application </tspan>
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="22.816658" y="25">and operations </tspan>
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="33.77076" y="39">monitoring</tspan>
+          </text>
+        </g>
+        <g id="Graphic_3665">
+          <circle cx="495.0266" cy="61.5" r="17.5000290238034" fill="#0f9d58"/>
+          <text transform="translate(483.0266 55)" fill="white">
+            <tspan font-family="Helvetica" font-size="11" font-weight="400" fill="white" x=".9946294" y="10">YES</tspan>
+          </text>
+        </g>
+        <g id="Graphic_3759">
+          <path d="M 363.1846 193 L 456.3426 244.5 L 363.1846 296 L 270.02658 244.5 Z" fill="#e5f5fd"/>
+          <text transform="translate(300.17924 222.47)" fill="black">
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="31.921235" y="11">Do you need </tspan>
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="24.46811" y="25">to keep using a </tspan>
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="21.878266" y="39">legacy solution?</tspan>
+          </text>
+        </g>
+        <g id="Graphic_3762">
+          <path d="M 183.1321 296 L 276.2901 347.5 L 183.1321 399 L 89.97411 347.5 Z" fill="#e5f5fd"/>
+          <text transform="translate(120.12677 332.47)" fill="black">
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="20.307954" y="11">Do you expect to </tspan>
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="13.68979" y="25">need GCP support?</tspan>
+          </text>
+        </g>
+        <g id="Graphic_3763">
+          <path d="M 543.23705 296 L 636.39505 347.5 L 543.23705 399 L 450.07906 347.5 Z" fill="#e5f5fd"/>
+          <text transform="translate(480.2317 332.47)" fill="black">
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="21.778654" y="11">Will you monitor</tspan>
+            <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="20.398771" y="25">hybrid GKE only?</tspan>
+          </text>
+        </g>
+        <g id="Group_3776">
+          <g id="Graphic_3772">
+            <rect x="563.4741" y="464" width="135.5259" height="80" fill="#e5f5fd"/>
+            <text transform="translate(568.4741 483)" fill="black">
+              <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="20.097908" y="11">Stackdriver with</tspan>
+              <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="29.08326" y="25">Blue Medora</tspan>
+              <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="36.30201" y="39">Bindplane</tspan>
+            </text>
+          </g>
+          <g id="Graphic_3774">
+            <rect x="387.4741" y="464" width="135.5259" height="80" fill="#e5f5fd"/>
+            <text transform="translate(392.4741 483)" fill="black">
+              <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="20.097908" y="11">Stackdriver with</tspan>
+              <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="18.800056" y="25">Prometheus and </tspan>
+              <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="44.215096" y="39">fluentd</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_3777">
+          <g id="Graphic_3779">
+            <rect x="203.36916" y="464" width="135.5259" height="80" fill="#e5f5fd"/>
+            <text transform="translate(208.36916 483)" fill="black">
+              <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="24.67115" y="11">Export directly </tspan>
+              <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="38.65162" y="25">to legacy</tspan>
+              <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="41.335213" y="39">solution</tspan>
+            </text>
+          </g>
+          <g id="Graphic_3778">
+            <rect x="27.369163" y="464" width="135.5259" height="80" fill="#e5f5fd"/>
+            <text transform="translate(32.369163 483)" fill="black">
+              <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="31.32154" y="11">Export from</tspan>
+              <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="25.945564" y="25">Stackdriver to</tspan>
+              <tspan font-family="Roboto" font-size="12" font-weight="400" fill="black" x="22.60572" y="39">legacy solution</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Graphic_3769">
+          <circle cx="498.8272" cy="243.91585" r="17.5000290238034" fill="#fd574d"/>
+          <text transform="translate(489.8272 237.41585)" fill="white">
+            <tspan font-family="Helvetica" font-size="11" font-weight="400" fill="white" x=".7500005" y="10">NO</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_3785">
+        <circle cx="586.662" cy="427" r="17.5000290238034" fill="#fd574d"/>
+        <text transform="translate(577.662 420.5)" fill="white">
+          <tspan font-family="Helvetica" font-size="11" font-weight="400" fill="white" x=".7500005" y="10">NO</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3789">
+        <circle cx="494.86916" cy="427" r="17.5000290238034" fill="#0f9d58"/>
+        <text transform="translate(482.86916 420.5)" fill="white">
+          <tspan font-family="Helvetica" font-size="11" font-weight="400" fill="white" x=".9946294" y="10">YES</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3794">
+        <circle cx="226.38334" cy="427.5" r="17.5000290238034" fill="#fd574d"/>
+        <text transform="translate(217.38334 421)" fill="white">
+          <tspan font-family="Helvetica" font-size="11" font-weight="400" fill="white" x=".7500005" y="10">NO</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3796">
+        <circle cx="134.9577" cy="427.5" r="17.5000290238034" fill="#0f9d58"/>
+        <text transform="translate(122.9577 421)" fill="white">
+          <tspan font-family="Helvetica" font-size="11" font-weight="400" fill="white" x=".9946294" y="10">YES</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3663">
+        <circle cx="363.1846" cy="150.5" r="17.5000290238034" fill="#fd574d"/>
+        <text transform="translate(354.1846 144)" fill="white">
+          <tspan font-family="Helvetica" font-size="11" font-weight="400" fill="white" x=".7500005" y="10">NO</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3768">
+        <circle cx="222.42754" cy="244.5" r="17.5000290238034" fill="#0f9d58"/>
+        <text transform="translate(210.42754 238)" fill="white">
+          <tspan font-family="Helvetica" font-size="11" font-weight="400" fill="white" x=".9946294" y="10">YES</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
